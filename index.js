@@ -28,3 +28,6 @@ var data=[
 for(let item of data){
     console.log(item);
 }
+
+
+console.log("this is all so boring");
